@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\bin\Debug\ArgumentTester.exe.config
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\bin\Debug\ArgumentTester.exe
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\bin\Debug\ArgumentTester.pdb
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\obj\Debug\ArgumentTester.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\obj\Debug\ArgumentTester.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\obj\Debug\ArgumentTester.exe
+C:\Users\dayofpay\source\repos\ArgumentTester\ArgumentTester\obj\Debug\ArgumentTester.pdb
